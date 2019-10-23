@@ -1,2 +1,2 @@
-# Personal_twitter_project
-Personal project developing an app using twitter API.
+# Personal Side Projects.
+A repository of things and ideas which are intriguing me and bringing them to life
